@@ -9,7 +9,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **Marcos Gabriel** {
  val n1 = "Analista programador Java"- 
- val acknowledgements = "4+ anos de experiencia"
+ val acknowledgements = "5 anos de experiencia"
  
  val primarySkillset = "Engenheiro de software, Java FullStack Desktop, WEB e desenvolvedor android"
  val languages = listOf("Java", "angular", "spring boot", "JavaScript", "Android", "Docker") 
