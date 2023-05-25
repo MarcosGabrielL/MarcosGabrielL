@@ -12,7 +12,7 @@ object **Marcos Gabriel** {
  val acknowledgements = "5 anos de experiencia"
  
  val primarySkillset = "Engenheiro de software, Java FullStack Desktop, WEB e desenvolvedor android"
- val languages = listOf("Java", "angular", "spring boot", "JavaScript", "Android", "Docker") 
+ val languages = listOf("Java", "Angular", "Flutter", "JavaScript", "Sql", "Docker") 
 
 }
 ```
