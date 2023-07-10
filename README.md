@@ -9,9 +9,9 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **Marcos Gabriel** {
  val n1 = "Analista programador Java"- 
- val acknowledgements = "5 anos de experiencia"
+ val acknowledgements = "6 anos de experiencia"
  
- val primarySkillset = "Engenheiro de software, Java FullStack Desktop, WEB e desenvolvedor android"
+ val primarySkillset = "Engenheiro de software, Java FullStack Desktop, WEB e Mobile"
  val languages = listOf("Java", "Angular", "Flutter", "JavaScript", "Sql", "Docker") 
 
 }
@@ -38,22 +38,12 @@ object **Marcos Gabriel** {
 
 
 
-## **GitHub Estatísticas**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosGabrielL&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosGabrielL&show_icons=true&theme=dracula&line_height=27" alt="**Marcos Gabriel** github stats"/>
-</a>
 
 [website]: https:///
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/marcosg._s/
 [linkedin]: https://www.linkedin.com/in/marcosgabriell/
 <br>
-
 #### Rede Sociais!
 
 🏡 [website][website] **|** 
