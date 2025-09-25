@@ -1,55 +1,40 @@
-### Oie devs 👋
+# Olá, eu sou Marcos Gabriel 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Engenheiro de software com mais de 6 anos de experiência, especializado em **Java FullStack** (Desktop, Web e Mobile). Apaixonado por criar softwares eficientes e ajudar outros desenvolvedores a evoluírem.
 
-## <img width="45" alt="about" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjVba6ga7rXEycupCCkQsmNeJfrBC_ZfEfUbS5E_lgjorO6YE8abAIsqZrruQD6k811gs&usqp=CAU"> Sobre mim
+---
 
-<img align="right" width="300" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+## 💻 Sobre mim
+- 🌍 Baseado em Santiago, Chile
+- 🖥 Desenvolvimento **Java FullStack**, Angular, Flutter e aplicações móveis Android
+- ⚡ Experiência com **ERP, sistemas de gestão, emissor de notas fiscais e apps logísticos**
+- 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+- 🏆 Foco em entregar soluções de alto valor para empresas e clientes
 
-```kotlin
-object **Marcos Gabriel** {
- val n1 = "Analista programador Java"- 
- val acknowledgements = "6 anos de experiencia"
- 
- val primarySkillset = "Engenheiro de software, Java FullStack Desktop, WEB e Mobile"
- val languages = listOf("Java", "Angular", "Flutter", "JavaScript", "Sql", "Docker") 
+---
 
-}
-```
+## 🛠 Tecnologias & Ferramentas
+- **Linguagens:** Java, JavaScript, TypeScript, SQL, Dart
+- **Frameworks:** Angular, Flutter, Spring Boot
+- **Banco de Dados:** PostgreSQL, MySQL, SQL Server
+- **Ferramentas:** Docker, Git, GitHub, VS Code
+- **Outros:** APIs REST, Mobile Development, Desktop Applications
 
-## **Linguagens e Ferramentas:**  
-<code><img height="30" src="https://cdn2.dineroenimagen.com/media/dinero/images/blogs/javalogo.jpg"></code>
-<code><img height="30" src="https://miro.medium.com/max/250/1*QerqJjInhrgbBkeQ2LSfvQ.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://oravatec.com/wp-content/uploads/2020/11/vertical-logo-monochromatic.png"></code>
-<code><img height="30" src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"></code>
+---
 
+## 📂 Projetos em destaque
+- [**GibGas - Android**](https://github.com/MarcosGabrielL/GibGas-Sistema-para-logistica-Android) – App Android conectando clientes a entregadores, integrando logística em tempo real.  
+- [**ERP Desktop Java**](https://github.com/MarcosGabrielL/ERP-Desktop-Java) – Emissor de notas fiscais, frente de caixa e gerenciador de vendas para varejo e atacado.  
+- [**e-PDV Web**](https://github.com/MarcosGabrielL/e-PDV-WEB) – Sistema web para gestão de vendas e emissão de notas fiscais para restaurantes.  
+- [**Asa-Front**](https://github.com/MarcosGabrielL/Asa-Front) – Movie DB para fãs, desenvolvido com Angular 10.  
 
+---
 
+## 📫 Contato
+- LinkedIn: [linkedin.com/in/marcos-gabriel-3b8426b7](https://www.linkedin.com/in/marcos-gabriel-3b8426b7/)  
+- GitHub: [github.com/MarcosGabrielL](https://github.com/MarcosGabrielL)  
 
+---
 
-[website]: https:///
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/marcosg._s/
-[linkedin]: https://www.linkedin.com/in/marcosgabriell/
-<br>
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
-
-
+## ⚡ Curiosidade
+Adoro transformar ideias em software útil, criar soluções que simplificam processos e sempre busco **entregar valor real aos usuários**.
