@@ -7,6 +7,7 @@
 - [calculadora-soap](https://github.com/MarcosGabrielL/calculadora-soap): Serviço SOAP com JAX-WS, cliente via wsimport (stubs) e cliente via SAAJ com HttpURLConnection
 - [api-tarefas-jdbc](https://github.com/MarcosGabrielL/api-tarefas-jdbc): API RESTful com Spring Boot e JdbcTemplate • SQL puro • Paginação e ordenação • H2 Database
 - [ecommerce-jpa-lazy-demo](https://github.com/MarcosGabrielL/ecommerce-jpa-lazy-demo): E-commerce com Spring Boot e JPA • LazyInitializationException • EntityGraph • JOIN FETCH • DTO
+- [rabbitmq-processor](https://github.com/MarcosGabrielL/rabbitmq-processor): Sistema distribuído com Spring Boot e RabbitMQ • Retry manual • ACK manual • Dead Letter Queue (DLQ)
 
 &nbsp;&nbsp;
 ## Contato
