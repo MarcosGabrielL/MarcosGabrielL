@@ -6,6 +6,7 @@
 - [biblioteca-socket](https://github.com/MarcosGabrielL/biblioteca-socket): Sistema cliente-servidor com Java, Sockets TCP, AES-256, JDBC puro, pool de conexões e cache LRU
 - [calculadora-soap](https://github.com/MarcosGabrielL/calculadora-soap): Serviço SOAP com JAX-WS, cliente via wsimport (stubs) e cliente via SAAJ com HttpURLConnection
 - [api-tarefas-jdbc](https://github.com/MarcosGabrielL/api-tarefas-jdbc): API RESTful com Spring Boot e JdbcTemplate • SQL puro • Paginação e ordenação • H2 Database
+- [ecommerce-jpa-lazy-demo](https://github.com/MarcosGabrielL/ecommerce-jpa-lazy-demo): E-commerce com Spring Boot e JPA • LazyInitializationException • EntityGraph • JOIN FETCH • DTO
 
 &nbsp;&nbsp;
 ## Contato
