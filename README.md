@@ -9,7 +9,8 @@
 - [ecommerce-jpa-lazy-demo](https://github.com/MarcosGabrielL/ecommerce-jpa-lazy-demo): E-commerce com Spring Boot e JPA • LazyInitializationException • EntityGraph • JOIN FETCH • DTO
 - [rabbitmq-processor](https://github.com/MarcosGabrielL/rabbitmq-processor): Sistema distribuído com Spring Boot e RabbitMQ • Retry manual • ACK manual • Dead Letter Queue (DLQ)
 - [Click-Tracker](https://github.com/MarcosGabrielL/Click-Tracker): Rastreamento de cliques em tempo real • Apache Kafka • Avro • Schema Registry • Kafka Streams
-
+- [payment_gateway_spring_ws](https://github.com/MarcosGabrielL/payment_gateway_spring_ws): Gateway SOAP de pagamentos • Spring WS • WS-Security UsernameToken • TLS • XSD/WSDL
+  
 &nbsp;&nbsp;
 ## Contato
 
