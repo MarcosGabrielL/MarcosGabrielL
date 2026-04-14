@@ -1,5 +1,6 @@
 ## Open Projects
 
+- [cache-ingressos-show](https://github.com/MarcosGabrielL/cache-ingressos-show): Controle de concorrência em vendas • Spring Cache + Redis • Lock distribuído (Redisson) • Lock otimista (JPA @Version)
 - [monitoramento_api](https://github.com/MarcosGabrielL/monitoramento_api): Observabilidade com Micrometer + Prometheus + Grafana + Alertmanager • Métricas customizadas • Alertas
 - [ERP-Desktop-Java](https://github.com/MarcosGabrielL/ERP-Desktop-Java): ERP Desktop Java para varejo e atacado • NF-e/NFC-e 4.0 • PDV • Controle financeiro e de estoque
 - [SpringBoot-app-com-Materialize](https://github.com/MarcosGabrielL/SpringBoot-app-com-Materialize): Aplicação web com Spring Boot e front-end estilizado com Materialize CSS
