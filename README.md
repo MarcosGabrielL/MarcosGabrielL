@@ -72,6 +72,11 @@
 - **[currency-quote-reactive-benchmark](https://github.com/MarcosGabrielL/currency-quote-reactive-benchmark)**  
   *Comparativo de resiliência e latência entre RestTemplate (bloqueante) e WebClient (reativo) em chamadas externas.*
 
+- **[webflux-crud-apis](https://github.com/MarcosGabrielL/webflux-crud-apis)**  
+  *Sistema reativo de alta escala com Spring WebFlux. Pool de 500 conexões, chamadas paralelas (Mono.zip) para 3 APIs externas (ViaCEP, ReceitaWS, WeatherAPI), timeouts agressivos de 500ms, Circuit Breaker com Resilience4j, cache reativo com Caffeine, monitoramento Prometheus/Grafana, e deploy no Kubernetes com HPA. Throughput de 150+ req/seg com latência P95 < 500ms.*
+  
+  **Stack:** Spring WebFlux, Netty, R2DBC, Project Reactor, Resilience4j, Caffeine, Prometheus, Grafana, Docker, Kubernetes.
+
 ### Desafio: Garantia de entrega de mensagens? Rastreamento de eventos?
 
 - **[rabbitmq-processor](https://github.com/MarcosGabrielL/rabbitmq-processor)**  
