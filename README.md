@@ -5,7 +5,6 @@ Desenvolvedor Full Stack com mais de 9 anos de experiência, especializado em Ja
 ---
 
 ## Com Código Aberto
-*Uma curadoria de repositórios públicos que demonstram a aplicação prática de conceitos avançados para problemas reais de engenharia de software.*
 
 - **[bank-transfer-benchmark](https://github.com/MarcosGabrielL/bank-transfer-benchmark)**  
   *Avaliação prática de Virtual Threads (Java 21) vs Platform Threads. Código pronto para benchmark de throughput bancário.*
