@@ -1,6 +1,15 @@
-## Especialista em Arquitetura Java | Desenvolvedor Full Stack
+### Senior Java Engineer • Software Architect • Full Stack Developer
 
-Desenvolvedor Full Stack com mais de 9 anos de experiência, especializado em Java, Angular, SQL e Flutter. Foco em alta performance, concorrência, Microsserviços, mensageria assíncrona (RabbitMQ/Kafka), Cloud (AWS) e performance com Java 21+ (Virtual Threads), modernização de sistemas corporativos críticos, incluindo setores financeiro, tributário (NF-e/NFC-e), logístico (TMS/EDI) e ERPs completos.
+9+ anos construindo sistemas de alta disponibilidade utilizando Java, Spring Boot, Microsserviços, Mensageria, Cloud e Arquitetura Distribuída.
+
+Especialista em:
+- Alta concorrência (Java 21 / Virtual Threads)
+- Microsserviços e Event-Driven Architecture
+- Kafka, RabbitMQ e Processamento Assíncrono
+- APIs REST/SOAP de missão crítica
+- Performance, Observabilidade e Escalabilidade
+- AWS • Docker • Kubernetes • Redis
+- Modernização de sistemas legados em ambientes Financeiros, Tributários (NF-e/NFC-e), Logísticos (TMS/EDI) e ERPs
 
 ---
 
@@ -64,7 +73,6 @@ Desenvolvedor Full Stack com mais de 9 anos de experiência, especializado em Ja
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![VPS](https://img.shields.io/badge/VPS-0078D4?style=flat-square&logo=server&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 ---
- 
 
 ## Contato Direto
 
